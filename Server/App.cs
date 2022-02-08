@@ -5,7 +5,7 @@ using Lockstep.Network;
 using Lockstep.Util;
 
 namespace Lockstep.FakeServer{
-    public class ServerLauncher {
+    public class App {
         private static Server server;
 
         public static void Main(){
